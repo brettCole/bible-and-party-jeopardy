@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 .yarn/install-state.gz
+pnpm-lock.yaml
+._pnpm-lock.yaml
+bun.lockb
 
 # testing
 /coverage

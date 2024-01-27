@@ -27,7 +27,8 @@ const config: Config = {
       'synthwave',
       'aqua'
     ],
-    darkTheme: 'synthwave'
+    darkTheme: 'synthwave',
+    base: true
   },
 };
 export default config;
